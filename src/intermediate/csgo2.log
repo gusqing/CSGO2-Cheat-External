@@ -1,0 +1,630 @@
+﻿  ****  Online  ****
+    000000  ...
+    195920
+  CertUtil: -URLCache command completed successfully.
+  combat.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\combat\combat.hpp(3,10): error C1083: içerme dosyası açılamıyor: '../source2-sdk/classes/user_cmd.hpp': No such file or directory
+  ('combat/combat.cpp' kaynak dosyası derleniyor)
+  
+  config.cpp
+  hooks.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\hooks\hooks.cpp(3,10): error C1083: içerme dosyası açılamıyor: '../signatures.hpp': No such file or directory
+  menu.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\menu\menu.cpp(3,10): error C1083: içerme dosyası açılamıyor: '../source2-sdk/sdk.hpp': No such file or directory
+  color_t.cpp
+/source2-sdk/math/color_t.cpp(1,1): error C1083: kaynak dosyası açılamıyor: 'source2-sdk\math\color_t.cpp': No such file or directory
+  ('/source2-sdk/math/color_t.cpp' kaynak dosyası derleniyor)
+  
+  math.cpp
+/source2-sdk/math/math.cpp(1,1): error C1083: kaynak dosyası açılamıyor: 'source2-sdk\math\math.cpp': No such file or directory
+  ('/source2-sdk/math/math.cpp' kaynak dosyası derleniyor)
+  
+  vec2_t.cpp
+/source2-sdk/math/vec2_t.cpp(1,1): error C1083: kaynak dosyası açılamıyor: 'source2-sdk\math\vec2_t.cpp': No such file or directory
+  ('/source2-sdk/math/vec2_t.cpp' kaynak dosyası derleniyor)
+  
+  vec3_t.cpp
+/source2-sdk/math/vec3_t.cpp(1,1): error C1083: kaynak dosyası açılamıyor: 'source2-sdk\math\vec3_t.cpp': No such file or directory
+  ('/source2-sdk/math/vec3_t.cpp' kaynak dosyası derleniyor)
+  
+  vec4_t.cpp
+/source2-sdk/math/vec4_t.cpp(1,1): error C1083: kaynak dosyası açılamıyor: 'source2-sdk\math\vec4_t.cpp': No such file or directory
+  ('/source2-sdk/math/vec4_t.cpp' kaynak dosyası derleniyor)
+  
+  schema_system.cpp
+/source2-sdk/schema_system/schema_system.cpp(1,1): error C1083: kaynak dosyası açılamıyor: 'source2-sdk\schema_system\schema_system.cpp': No such file or directory
+  ('/source2-sdk/schema_system/schema_system.cpp' kaynak dosyası derleniyor)
+  
+  sdk.cpp
+/source2-sdk/sdk.cpp(1,1): error C1083: kaynak dosyası açılamıyor: 'source2-sdk\sdk.cpp': No such file or directory
+  ('/source2-sdk/sdk.cpp' kaynak dosyası derleniyor)
+  
+  sdl.cpp
+/source2-sdk/sdl/sdl.cpp(1,1): error C1083: kaynak dosyası açılamıyor: 'source2-sdk\sdl\sdl.cpp': No such file or directory
+  ('/source2-sdk/sdl/sdl.cpp' kaynak dosyası derleniyor)
+  
+  console.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\console\console.hpp(3,10): error C1083: içerme dosyası açılamıyor: '../../source2-sdk/math/color_t.hpp': No such file or directory
+  ('utilities/console/console.cpp' kaynak dosyası derleniyor)
+  
+  debug.cpp
+  entry.cpp
+/entry.cpp(1,1): error C1083: kaynak dosyası açılamıyor: 'entry.cpp': No such file or directory
+  ('/entry.cpp' kaynak dosyası derleniyor)
+  
+  interfaces.cpp
+/source2-sdk/interfaces/interfaces.cpp(1,1): error C1083: kaynak dosyası açılamıyor: 'source2-sdk\interfaces\interfaces.cpp': No such file or directory
+  ('/source2-sdk/interfaces/interfaces.cpp' kaynak dosyası derleniyor)
+  
+  imgui.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10): error C2660: 'ImGui::Combo': işlev 5 bağımsız değişken almıyor
+  ('utilities/imgui/imgui.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(17,14):
+  'ImGui::Combo' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10): error C2660: 'ImGui::ListBox': işlev 6 bağımsız değişken almıyor
+  ('utilities/imgui/imgui.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(24,14):
+  'ImGui::ListBox' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64, int)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_internal.h(101,1): error C1189: #error:  Please '#define IMGUI_DEFINE_MATH_OPERATORS' _BEFORE_ including imgui.h!
+  ('utilities/imgui/imgui.cpp' kaynak dosyası derleniyor)
+  
+  imgui_draw.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10): error C2660: 'ImGui::Combo': işlev 5 bağımsız değişken almıyor
+  ('utilities/imgui/imgui_draw.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(17,14):
+  'ImGui::Combo' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10): error C2660: 'ImGui::ListBox': işlev 6 bağımsız değişken almıyor
+  ('utilities/imgui/imgui_draw.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(24,14):
+  'ImGui::ListBox' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64, int)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_internal.h(101,1): error C1189: #error:  Please '#define IMGUI_DEFINE_MATH_OPERATORS' _BEFORE_ including imgui.h!
+  ('utilities/imgui/imgui_draw.cpp' kaynak dosyası derleniyor)
+  
+  imgui_impl_dx11.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10): error C2660: 'ImGui::Combo': işlev 5 bağımsız değişken almıyor
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(17,14):
+  'ImGui::Combo' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10): error C2660: 'ImGui::ListBox': işlev 6 bağımsız değişken almıyor
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(24,14):
+  'ImGui::ListBox' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64, int)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(19,16): error C2144: sözdizimi hatası: 'bool' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(19,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(20,16): error C2144: sözdizimi hatası: 'void' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(20,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(20,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(19,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(21,16): error C2144: sözdizimi hatası: 'void' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(21,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(21,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(19,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(22,16): error C2144: sözdizimi hatası: 'void' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(22,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(22,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(19,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(22,25): error C2182: 'ImGui_ImplDX11_RenderDrawData': bu 'void' kullanımı geçerli değil
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(22,55): error C2065: 'ImDrawData': bildirimi yapılmamış tanımlayıcı
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(22,67): error C2065: 'draw_data': bildirimi yapılmamış tanımlayıcı
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(25,16): error C2144: sözdizimi hatası: 'void' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(25,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(25,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(19,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(26,16): error C2144: sözdizimi hatası: 'bool' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(26,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(26,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_dx11.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.h(19,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(76,19): error C2039: 'GetCurrentContext': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(76,19): error C3861: 'GetCurrentContext': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(76,70): error C2039: 'GetIO': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(76,70): error C3861: 'GetIO': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(80,13): error C2182: 'ImGui_ImplDX11_SetupRenderState': bu 'void' kullanımı geçerli değil
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(80,45): error C2065: 'ImDrawData': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(80,57): error C2065: 'draw_data': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(80,89): error C2065: 'ctx': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(80,68): error C2275: 'ID3D11DeviceContext': tür yerine bir ifade bekleniyordu
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(81,1): error C2143: sözdizimi hatası: ';' eksik ('{' öncesinde)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(86,12): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(86,5): error C2365: 'memset': yeniden tanımlama; önceki tanım 'işlev' idi
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_string.h(63,15):
+  'memset' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(87,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(87,7): error C3484: sözdizimi hatası: dönüş türünden önce '->' bekleniyor
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(87,8): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(87,14): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(87,5): error C2371: 'vp': yeniden tanımlama; temel türler farklı
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(85,20):
+  'vp' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(87,8): error C2146: sözdizimi hatası: ';' eksik ('Width' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(88,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(88,7): error C3484: sözdizimi hatası: dönüş türünden önce '->' bekleniyor
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(88,8): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(88,15): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(88,5): error C2371: 'vp': yeniden tanımlama; temel türler farklı
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(85,20):
+  'vp' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(88,8): error C2146: sözdizimi hatası: ';' eksik ('Height' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(89,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(89,7): error C3484: sözdizimi hatası: dönüş türünden önce '->' bekleniyor
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(89,8): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(89,17): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(89,5): error C2371: 'vp': yeniden tanımlama; temel türler farklı
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(85,20):
+  'vp' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(89,8): error C2146: sözdizimi hatası: ';' eksik ('MinDepth' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(90,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(90,7): error C3484: sözdizimi hatası: dönüş türünden önce '->' bekleniyor
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(90,8): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(90,17): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(90,5): error C2371: 'vp': yeniden tanımlama; temel türler farklı
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(85,20):
+  'vp' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(90,8): error C2146: sözdizimi hatası: ';' eksik ('MaxDepth' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(91,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(91,7): error C3484: sözdizimi hatası: dönüş türünden önce '->' bekleniyor
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(91,8): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(91,17): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(91,5): error C2371: 'vp': yeniden tanımlama; temel türler farklı
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(85,20):
+  'vp' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(91,8): error C2146: sözdizimi hatası: ';' eksik ('TopLeftX' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,24): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,10): error C2146: sözdizimi hatası: ';' eksik ('RSSetViewports' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(95,34): error C2065: 'ImDrawVert': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(97,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(97,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(97,26): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(97,5): error C2086: 'int ctx': yeniden tanımlama
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5):
+  'ctx' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(97,10): error C2146: sözdizimi hatası: ';' eksik ('IASetInputLayout' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(98,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(98,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(98,28): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(98,5): error C2086: 'int ctx': yeniden tanımlama
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5):
+  'ctx' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(98,10): error C2146: sözdizimi hatası: ';' eksik ('IASetVertexBuffers' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(99,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(99,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(99,26): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(99,5): error C2086: 'int ctx': yeniden tanımlama
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5):
+  'ctx' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(99,10): error C2146: sözdizimi hatası: ';' eksik ('IASetIndexBuffer' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(99,104): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(99,84): error C2365: 'DXGI_FORMAT_R32_UINT': yeniden tanımlama; önceki tanım 'numaralandırıcı' idi
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\dxgiformat.h(55,5):
+  'DXGI_FORMAT_R32_UINT' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(99,106): error C2059: sözdizimi hatası: 'sabit'
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(99,107): error C2059: sözdizimi hatası: ')'
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(100,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(100,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(100,32): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(100,5): error C2086: 'int ctx': yeniden tanımlama
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5):
+  'ctx' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(100,10): error C2146: sözdizimi hatası: ';' eksik ('IASetPrimitiveTopology' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(101,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(101,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(101,21): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(101,5): error C2086: 'int ctx': yeniden tanımlama
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5):
+  'ctx' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(101,10): error C2146: sözdizimi hatası: ';' eksik ('VSSetShader' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(102,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(102,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(102,30): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(102,5): error C2086: 'int ctx': yeniden tanımlama
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5):
+  'ctx' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(102,10): error C2146: sözdizimi hatası: ';' eksik ('VSSetConstantBuffers' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(103,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(103,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(103,21): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(103,5): error C2086: 'int ctx': yeniden tanımlama
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5):
+  'ctx' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(103,10): error C2146: sözdizimi hatası: ';' eksik ('PSSetShader' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(104,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(104,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(104,23): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(104,5): error C2086: 'int ctx': yeniden tanımlama
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5):
+  'ctx' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(104,10): error C2146: sözdizimi hatası: ';' eksik ('PSSetSamplers' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(105,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(105,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(105,21): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(105,5): error C2086: 'int ctx': yeniden tanımlama
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5):
+  'ctx' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(105,10): error C2146: sözdizimi hatası: ';' eksik ('GSSetShader' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(106,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(106,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(106,21): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(106,5): error C2086: 'int ctx': yeniden tanımlama
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(92,5):
+  'ctx' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(106,10): error C2146: sözdizimi hatası: ';' eksik ('HSSetShader' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(107,5): error C3927: '->': işlev olmayan bildirimciden sonra bitiş dönüş türüne izin verilmez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(107,10): error C3613: '->' öğesinden sonra dönüş türü eksik ('int' varsayıldı)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_dx11.cpp(107,10): error C1003: hata sayısı 100 taneyi aştı; derleme durduruluyor
+  imgui_impl_win32.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10): error C2660: 'ImGui::Combo': işlev 5 bağımsız değişken almıyor
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(17,14):
+  'ImGui::Combo' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10): error C2660: 'ImGui::ListBox': işlev 6 bağımsız değişken almıyor
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(24,14):
+  'ImGui::ListBox' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64, int)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(18,16): error C2144: sözdizimi hatası: 'bool' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(18,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(19,16): error C2144: sözdizimi hatası: 'void' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(19,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(19,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(18,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(20,16): error C2144: sözdizimi hatası: 'void' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(20,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(20,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(18,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(37,16): error C2144: sözdizimi hatası: 'void' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(37,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(37,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(18,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(38,16): error C2144: sözdizimi hatası: 'float' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(38,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(38,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(18,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(39,16): error C2144: sözdizimi hatası: 'float' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(39,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(39,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(18,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(44,16): error C2144: sözdizimi hatası: 'void' öncesinde ';' olmalıdır
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(44,25): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(44,1): error C2086: 'int IMGUI_IMPL_API': yeniden tanımlama
+  ('utilities/imgui/imgui_impl_win32.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.h(18,1):
+  'IMGUI_IMPL_API' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(92,33): error C3646: 'LastMouseCursor': bilinmeyen geçersiz kılma belirticisi
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(92,48): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(111,19): error C2039: 'GetCurrentContext': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(111,19): error C3861: 'GetCurrentContext': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(111,71): error C2039: 'GetIO': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(111,71): error C3861: 'GetIO': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(117,5): error C2065: 'ImGuiIO': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(117,14): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(117,26): error C2039: 'GetIO': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(117,26): error C3861: 'GetIO': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(118,15): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(118,5): error C3861: 'IM_ASSERT': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(127,39): error C2275: 'ImGui_ImplWin32_Data': tür yerine bir ifade bekleniyordu
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(127,32): error C3861: 'IM_NEW': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(127,38): error C2064: terim 0 bağımsız değişken alan bir işlev olarak değerlendirilmiyor
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(128,5): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(129,5): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(130,5): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(130,24): error C2065: 'ImGuiBackendFlags_HasMouseCursors': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(131,5): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(131,24): error C2065: 'ImGuiBackendFlags_HasSetMousePos': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(136,9): error C2039: 'LastMouseCursor': bir 'ImGui_ImplWin32_Data' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(84,8):
+  'ImGui_ImplWin32_Data' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(136,27): error C2065: 'ImGuiMouseCursor_COUNT': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(139,12): error C2039: 'GetMainViewport': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(139,12): error C3861: 'GetMainViewport': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(152,25): error C3861: 'IM_ARRAYSIZE': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(168,5): error C3861: 'IM_ASSERT': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(169,5): error C2065: 'ImGuiIO': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(169,14): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(169,26): error C2039: 'GetIO': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(169,26): error C3861: 'GetIO': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(177,5): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(178,5): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(179,5): error C3861: 'IM_DELETE': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(184,5): error C2065: 'ImGuiIO': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(184,14): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(184,26): error C2039: 'GetIO': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(184,26): error C3861: 'GetIO': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(185,9): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(185,26): error C2065: 'ImGuiConfigFlags_NoMouseCursorChange': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(188,5): error C2065: 'ImGuiMouseCursor': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(188,22): error C2146: sözdizimi hatası: ';' eksik ('imgui_cursor' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(188,22): error C2065: 'imgui_cursor': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(188,44): error C2039: 'GetMouseCursor': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(188,44): error C3861: 'GetMouseCursor': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(189,9): error C2065: 'imgui_cursor': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(189,25): error C2065: 'ImGuiMouseCursor_None': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(189,50): error C2065: 'io': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(198,17): error C2065: 'imgui_cursor': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(199,9): error C2050: switch ifadesi tamsayı değil
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(200,14): error C2065: 'ImGuiMouseCursor_Arrow': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(200,14): error C2131: ifade sabit olarak değerlendirilmedi
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(200,14):
+  sabit olmayan bir (alt) ifade ile karşılaşıldı
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(201,14): error C2065: 'ImGuiMouseCursor_TextInput': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(201,14): error C2131: ifade sabit olarak değerlendirilmedi
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(201,14):
+  sabit olmayan bir (alt) ifade ile karşılaşıldı
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(202,14): error C2065: 'ImGuiMouseCursor_ResizeAll': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(202,14): error C2131: ifade sabit olarak değerlendirilmedi
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(202,14):
+  sabit olmayan bir (alt) ifade ile karşılaşıldı
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(203,14): error C2065: 'ImGuiMouseCursor_ResizeEW': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(203,14): error C2131: ifade sabit olarak değerlendirilmedi
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(203,14):
+  sabit olmayan bir (alt) ifade ile karşılaşıldı
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(204,14): error C2065: 'ImGuiMouseCursor_ResizeNS': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(204,14): error C2131: ifade sabit olarak değerlendirilmedi
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(204,14):
+  sabit olmayan bir (alt) ifade ile karşılaşıldı
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(205,14): error C2065: 'ImGuiMouseCursor_ResizeNESW': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(205,14): error C2131: ifade sabit olarak değerlendirilmedi
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(205,14):
+  sabit olmayan bir (alt) ifade ile karşılaşıldı
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(206,14): error C2065: 'ImGuiMouseCursor_ResizeNWSE': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(206,14): error C2131: ifade sabit olarak değerlendirilmedi
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(206,14):
+  sabit olmayan bir (alt) ifade ile karşılaşıldı
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(207,14): error C2065: 'ImGuiMouseCursor_Hand': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(207,14): error C2131: ifade sabit olarak değerlendirilmedi
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(207,14):
+  sabit olmayan bir (alt) ifade ile karşılaşıldı
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(208,14): error C2065: 'ImGuiMouseCursor_NotAllowed': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(208,14): error C2131: ifade sabit olarak değerlendirilmedi
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(208,14):
+  sabit olmayan bir (alt) ifade ile karşılaşıldı
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(220,13): error C2182: 'ImGui_ImplWin32_AddKeyEvent': bu 'void' kullanımı geçerli değil
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(220,41): error C2065: 'ImGuiKey': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(220,50): error C2146: sözdizimi hatası: ')' eksik ('key' tanımlayıcısından önce)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(221,1): error C2143: sözdizimi hatası: ';' eksik ('{' öncesinde)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(221,1): error C2447: '{': işlev üstbilgisi eksik (eski tarzda biçimsel liste mi?)
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(231,16): error C2039: 'IsKeyDown': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(231,26): error C2065: 'ImGuiKey_LeftShift': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(231,16): error C3861: 'IsKeyDown': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(232,37): error C2065: 'ImGuiKey_LeftShift': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(233,16): error C2039: 'IsKeyDown': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(233,26): error C2065: 'ImGuiKey_RightShift': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(233,16): error C3861: 'IsKeyDown': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(234,37): error C2065: 'ImGuiKey_RightShift': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(237,16): error C2039: 'IsKeyDown': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(237,26): error C2065: 'ImGuiKey_LeftSuper': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(237,16): error C3861: 'IsKeyDown': tanımlayıcı bulunamadı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(238,37): error C2065: 'ImGuiKey_LeftSuper': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(239,16): error C2039: 'IsKeyDown': bir 'ImGui' üyesi değil
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(7,11):
+  'ImGui' bildirimine bakın
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(239,26): error C2065: 'ImGuiKey_RightSuper': bildirimi yapılmamış tanımlayıcı
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_impl_win32.cpp(239,26): error C1003: hata sayısı 100 taneyi aştı; derleme durduruluyor
+  Kod Üretiliyor...
+  Derleniyor...
+  imgui_tables.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10): error C2660: 'ImGui::Combo': işlev 5 bağımsız değişken almıyor
+  ('utilities/imgui/imgui_tables.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(17,14):
+  'ImGui::Combo' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10): error C2660: 'ImGui::ListBox': işlev 6 bağımsız değişken almıyor
+  ('utilities/imgui/imgui_tables.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(24,14):
+  'ImGui::ListBox' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64, int)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_internal.h(101,1): error C1189: #error:  Please '#define IMGUI_DEFINE_MATH_OPERATORS' _BEFORE_ including imgui.h!
+  ('utilities/imgui/imgui_tables.cpp' kaynak dosyası derleniyor)
+  
+  imgui_widgets.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10): error C2660: 'ImGui::Combo': işlev 5 bağımsız değişken almıyor
+  ('utilities/imgui/imgui_widgets.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(17,14):
+  'ImGui::Combo' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(20,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10): error C2660: 'ImGui::ListBox': işlev 6 bağımsız değişken almıyor
+  ('utilities/imgui/imgui_widgets.cpp' kaynak dosyası derleniyor)
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(24,14):
+  'ImGui::ListBox' bildirimine bakın
+  D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui.h(27,10):
+  '(const char *, int *, ImGui::<lambda_1>, void *, unsigned __int64, int)' bağımsız değişken listesi eşlenmeye çalışılırken
+  
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\imgui\imgui_internal.h(101,1): error C1189: #error:  Please '#define IMGUI_DEFINE_MATH_OPERATORS' _BEFORE_ including imgui.h!
+  ('utilities/imgui/imgui_widgets.cpp' kaynak dosyası derleniyor)
+  
+  renderer.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\renderer\renderer.hpp(3,10): error C1083: içerme dosyası açılamıyor: '../../source2-sdk/math/color_t.hpp': No such file or directory
+  ('utilities/renderer/renderer.cpp' kaynak dosyası derleniyor)
+  
+  utilities.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\console\console.hpp(3,10): error C1083: içerme dosyası açılamıyor: '../../source2-sdk/math/color_t.hpp': No such file or directory
+  ('utilities/utilities.cpp' kaynak dosyası derleniyor)
+  
+  shadow_vmt.cpp
+  visuals.cpp
+D:\GitHub\projelerv2\Game-Hacks\csgo2CHEAT\ext\src\utilities\console\console.hpp(3,10): error C1083: içerme dosyası açılamıyor: '../../source2-sdk/math/color_t.hpp': No such file or directory
+  ('visuals/visuals.cpp' kaynak dosyası derleniyor)
+  
+  Kod Üretiliyor...
